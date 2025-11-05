@@ -59,17 +59,17 @@ This dataset includes biomedical voice measurements from individuals with and wi
 
 ## 🖥 Installation & Setup  
 
-### ⿡ Clone the Repository  
+### 1. Clone the Repository  
 
-### ⿢ Install Dependencies
+### 2. Install Dependencies
 
 Make sure you have Python 3.9+ installed. Then run:
 
 pip install -r requirements.txt
 
-### ⿣ Run the App
+### 3. Run the App
 streamlit run app.py
 
-### ⿤ Access the Web App
+### 4. Access the Web App
 
 After running the above command, open the local URL shown (usually http://localhost:8501/) in your browser.
